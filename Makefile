@@ -76,7 +76,6 @@ publish:
 
 github: publish
 	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
-	git push origin git@github.com:damani42/damani42.github.io.git gh-pages:master
 
 
 .PHONY: html help clean regenerate serve serve-global devserver publish github
