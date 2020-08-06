@@ -23,7 +23,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('Jinja2', 'http://jinja.pocoo.org/'),
-         ('Victor Stinner', 'https://vstinner.github.io/'),
+         ('Bernard Cafarelli', 'https://blog.cafarelli.fr/'),
          ('Hervé Beraud', 'https://herve.beraud.io'))
 
 # Social widget
