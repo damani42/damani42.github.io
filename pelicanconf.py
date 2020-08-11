@@ -6,7 +6,7 @@ AUTHOR = 'Damani'
 SITENAME = 'Damani blog'
 SITEURL = 'https://damani42.github.io'
 GITHUB_URL = 'https://github.com/damani42'
-TWITTER_USERNAME = 'ewe'
+TWITTER_USERNAME = 'damanired'
 
 PATH = 'content'
 
