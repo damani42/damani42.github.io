@@ -27,7 +27,8 @@ LINKS = (('Jinja2', 'http://jinja.pocoo.org/'),
          ('Hervé Beraud', 'https://herve.beraud.io'))
 
 # Social widget
-SOCIAL = (('github', 'https://github.com/damani42'),)
+SOCIAL = (('github', 'https://github.com/damani42'),
+          ('twitter', 'https://twitter.com/damanired'))
 
 DEFAULT_PAGINATION = 10
 
