@@ -55,5 +55,5 @@ In conclusion, ensure-tox is very useful to ensure that the job has tox
 installed and to have a symlink on the host system for scripts that need it.
 This is quite specific to OpenStack, because few projects use zuul. But if you
 are using zuul for a python project. I recommend you to use zuul-jobs and
-ensure-tox too. To enjoy a multitude of playbooks and ansible roles for zuul
-already written.
+ensure-tox too. To enjoy a multitude of jobs, playbooks and ansible roles for
+zuul already written.
