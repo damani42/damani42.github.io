@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Damani blog</title><link href="https://damani42.github.io/" rel="alternate"></link><link href="https://damani42.github.io/feeds/all.atom.xml" rel="self"></link><id>https://damani42.github.io/</id><updated>2020-08-18T14:45:00+02:00</updated><entry><title>Presentation of ensure-tox role.</title><link href="https://damani42.github.io/presentation-of-ensure-tox-role.html" rel="alternate"></link><published>2020-08-18T14:45:00+02:00</published><updated>2020-08-18T14:45:00+02:00</updated><author><name>Damani</name></author><id>tag:damani42.github.io,2020-08-18:/presentation-of-ensure-tox-role.html</id><summary type="html">&lt;p&gt;The ensure-tox is a simple playbook for zuul.&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Introduction&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Damani blog - OpenStack</title><link href="https://damani42.github.io/" rel="alternate"></link><link href="https://damani42.github.io/feeds/openstack.atom.xml" rel="self"></link><id>https://damani42.github.io/</id><updated>2020-08-18T14:45:00+02:00</updated><entry><title>Presentation of ensure-tox role.</title><link href="https://damani42.github.io/presentation-of-ensure-tox-role.html" rel="alternate"></link><published>2020-08-18T14:45:00+02:00</published><updated>2020-08-18T14:45:00+02:00</updated><author><name>Damani</name></author><id>tag:damani42.github.io,2020-08-18:/presentation-of-ensure-tox-role.html</id><summary type="html">&lt;p&gt;The ensure-tox is a simple playbook for zuul.&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Introduction&lt;/h1&gt;
 &lt;p&gt;The &lt;a href="https://opendev.org/zuul/zuul-jobs/src/branch/master/roles/ensure-tox/README.rst"&gt;ensure-tox&lt;/a&gt;
 is simple. It's a ansible playbook for zuul to check if tox is install. It
 looks for tox, and if it can't found it, it install it via pip into a virtual
@@ -45,19 +45,4 @@ installed and to have a symlink on the host system for scripts that need it.
 This is quite specific to OpenStack, because few projects use zuul. But if you
 are using zuul for a python project. I recommend you to use zuul-jobs and
 ensure-tox too. To enjoy a multitude of jobs, playbooks and ansible roles for
-zuul already written.&lt;/p&gt;</content><category term="OpenStack"></category><category term="python"></category><category term="openstack"></category><category term="zuul"></category><category term="tox"></category></entry><entry><title>Welcome.</title><link href="https://damani42.github.io/welcome.html" rel="alternate"></link><published>2020-08-06T16:15:00+02:00</published><updated>2020-08-06T16:15:00+02:00</updated><author><name>Damani</name></author><id>tag:damani42.github.io,2020-08-06:/welcome.html</id><summary type="html">&lt;p&gt;Welcome on my new blog.&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Introduction&lt;/h1&gt;
-&lt;p&gt;Welcome on my blog, I think it's a good practice to a software engineer to have
-a blog. So, I decided to start my own one. I will principally publish technical
-articles without claims, sometimes I will also write about others subjects. I
-have a very easy goal, try to write a minimum of five articles per year.
-Sometimes that will be very short and very simple, sometimes more longer. A
-good reason to write articles is improve our technical skills.&lt;/p&gt;
-&lt;h1&gt;Pelican&lt;/h1&gt;
-&lt;p&gt;I chose Pelican because it's a Python project it's really easy to use. I really
-like the simplicity of the project. I can contribute to the project if I want
-or and need. A lot of plugins and themes is available. It's a static engine so
-it's really easy to deploy and secure.&lt;/p&gt;
-&lt;h1&gt;Conclusion&lt;/h1&gt;
-&lt;p&gt;I start my blog and I will start to publish several articles. I really like
-write, that will be not easy in English but a good exercise I hope that will be
-useful and I'm sure that will be fun.&lt;/p&gt;</content><category term="Misc"></category><category term="python"></category><category term="pelican"></category></entry></feed>
+zuul already written.&lt;/p&gt;</content><category term="OpenStack"></category><category term="python"></category><category term="openstack"></category><category term="zuul"></category><category term="tox"></category></entry></feed>
