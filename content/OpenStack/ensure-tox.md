@@ -1,8 +1,7 @@
 Title: Presentation of ensure-tox role.
-Date: 2020-08-08 16:15
+Date: 2020-08-18 14:45
 Tags: python, openstack, zuul, tox
 Summary: The ensure-tox is a simple playbook for zuul.
-status: draft
 
 # Introduction
 
